@@ -1,6 +1,6 @@
 ---
-title: Welcome to Hinode!
-description: A clean documentation and blog theme for your Hugo site based on Bootstrap 5.
+title: Turf Västerbotten
+description: Föreningen för turfare i Västerbotten
 thumbnail:
     url: /img/sunrise.jpg
     author: Harris Vo
@@ -10,6 +10,6 @@ thumbnail:
 actions:
   get-started:
     url: "https://gethinode.com/docs"
-    title: "Get started"
-    icon: "fas book-open"
+    title: "Bli medlem"
+    icon: ""
 ---
