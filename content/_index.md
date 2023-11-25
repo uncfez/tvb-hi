@@ -10,6 +10,6 @@ thumbnail:
 actions:
   get-started:
     url: "https://gethinode.com/docs"
-    title: "Bli medlem"
+    title: "Bli medlem!"
     icon: ""
 ---
